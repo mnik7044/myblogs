@@ -5,7 +5,7 @@ seoDescription: "Learn how to build an HTTP web server using Node.js - Step-by-s
 datePublished: Sat Jun 10 2023 23:04:44 GMT+0000 (Coordinated Universal Time)
 cuid: cliqlt85d000709l68bjufalx
 slug: building-your-first-web-server-using-nodejs
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686399534769/e2270f45-9162-4419-b391-e706b568e86b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686644720036/6fe090c0-2c24-4468-b08d-1d3293dfa9e6.png
 tags: javascript, web-development, nodejs, wemakedevs, devsintechblogs
 
 ---
