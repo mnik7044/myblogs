@@ -70,6 +70,8 @@ In the code snippet above, the `fetchData` function is declared as an `async` fu
 
 The "try-catch" statement is a construct in JavaScript that allows us to handle exceptions (or errors) gracefully. It consists of two parts: <mark>the "try" block, where we place the code that might generate an error, and the "catch" block, which executes if an error occurs within the "try" block.</mark>
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688545257002/1d405eeb-cc57-4d44-ba03-549fb30a90fe.jpeg align="center")
+
 ### Example 1: Handling Promises
 
 ```javascript
@@ -124,7 +126,7 @@ async function fetchData() {
 })();
 ```
 
-In this example, we use the <mark> async/await syntax to handle asynchronous operations. </mark> Inside the fetchData function, the try-catch block is used to catch errors, and the catch block throws the error again to be caught by the outer try-catch block. The outer try-catch block handles the error using the catch statement.
+In this example, we use the <mark>async/await syntax to handle asynchronous operations. </mark> Inside the fetchData function, the try-catch block is used to catch errors, and the catch block throws the error again to be caught by the outer try-catch block. The outer try-catch block handles the error using the catch statement.
 
 ## Conclusion
 
