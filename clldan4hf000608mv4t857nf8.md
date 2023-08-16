@@ -6,7 +6,7 @@ datePublished: Wed Aug 16 2023 05:30:10 GMT+0000 (Coordinated Universal Time)
 cuid: clldan4hf000608mv4t857nf8
 slug: transitioning-from-javascript-to-typescript-a-guide-for-javascript-developers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692151081466/d944246e-3c03-4ba8-87d6-353bc6586a6a.png
-tags: javascript, reactjs, typescript, frontend-development, wemakedevs
+tags: javascript, typescript, frontend-development, wemakedevs, wemakedev
 
 ---
 
