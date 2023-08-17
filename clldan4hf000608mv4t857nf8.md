@@ -211,7 +211,7 @@ Here's a breakdown of key concepts related to TypeScript interfaces:
 
 ### **Defining an Interface**
 
-<mark>An interface is defined using the </mark> `interface` <mark> keyword followed by the interface name and the curly braces containing the properties and methods that should be present in objects implementing the interface.</mark>
+<mark>An interface is defined using the </mark> `interface` <mark>keyword followed by the interface name and the curly braces containing the properties and methods that should be present in objects implementing the interface.</mark>
 
 ```typescript
 interface Person {
@@ -324,7 +324,7 @@ dog.bark();  // Buddy makes Woof
 
 ## Conclusion
 
-In this article we covered various topix=cs such as advantages of typescript over javascript, we saw different examples of code snippets both in js and ts to understand the difference. We also dived deep inside what an interface is how do we make one. I hope this article will be a bridge between you and typescript.
+In this article we covered various topics such as advantages of typescript over javascript, we saw different examples of code snippets both in js and ts to understand the difference. We also dived deep inside what an interface is how do we make one. I hope this article will be a bridge between you and typescript.
 
 In summary, transitioning from JavaScript to TypeScript empowers JavaScript developers with the advantages of <mark>static typing, early error detection, and improved tooling</mark>. While there's a learning curve, the TypeScript community provides abundant resources. Embracing TypeScript isn't just adopting a language, but a pathway to writing more efficient, maintainable code and thriving in the evolving landscape of software development.
 
